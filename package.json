@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Aadish Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "description": ""
+}
